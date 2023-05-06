@@ -1,45 +1,24 @@
+<h1 align="center">Hi 👋, I'm Murillo Petry</h1>
+<h3 align="center">A Senior software developer and team leader with experience in systems analysis, coordination, and backend development</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukasc&label=Profile%20views&color=229639&style=plastic" alt="mukasc" /> </p>
 
-<!---
-- 👋 Hi, I’m @mukasc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-mukasc/mukasc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukasc" alt="mukasc" /></a> </p>
 
-Hi my name is Murillo Petry,
+- 🔭 I’m currently working on [Chatbot-Telegram-Consulta-Rejeicoes-SEFAZ](https://github.com/mukasc/Chatbot-Telegram-Consulta-Rejeicoes-SEFAZ)
 
-If you got here it is because you are interested in my work, whether by indication, some connection, maybe I got in touch, or you arrived by chance.
+- 🌱 I’m currently learning **Python, OpoenAi, chatgpt**
 
-I will start talking a little about myself, I am a geek, passionate about games, classic films, music and technology in general.
+- 💬 Ask me about **sql, genexus, php, pyhthon, javascript**
 
-I was born and raised in Florianópolis, on the coast of Santa Catarina, Brazil, young and with the scope of learning I got a place in a public 
-college (UDESC - Bachelor of Information Systems) I went to live alone in the countryside, in the Alto Vale do Itajaí, a small town called Ibirama, 
-at which I currently reside.
+- 📫 How to reach me **murillo.petry@gmail.com**
 
-My experiences with web development started when I started college, I received a scholarship from the technological center where I maintained the 
-institutional website of some units of UDESC (CEAVI and CEO unit) working with PHP, html and mysql.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/murillopetry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murillopetry" height="30" width="40" /></a>
+</p>
 
-In mid-2011 I started working on a software house, which has an ERP Web solution, and started treading the path through Genexus, I have been working 
-with Genexus X evo 1 for more than eight years, compiling in java web (SQL Server, DB2 and Oracle), and also using the Pattern Work With Plus.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-In terms of business management modules, I worked for five years as an Analyst / Developer of the Supply Module (Purchasing, Receiving (input / freight), 
-Inventory) of the ERP.
-
-I also worked for two years doing analyzes of the Agribusiness Module (Seed Control, Receiving and Storage, Planting Plan, Seed Treatment).
-
-After a period of analysis in agribusiness, I had a brief experience as coordinator of this team in a challenging implementation project with lean deadlines. 
-This period was marked with many field visits for requirements gathering, planning using Scrum Methodology, Analysis and development.
-
-Due to the change in management, team changes and my technical knowledge, I worked as an Analyst / Developer in several modules, such as Commercial Management 
-and Billing (Integrations with service notes (webservice), sales order, Specific sales processes, note output), Production, Supplies, Clubs and also various 
-demands for differentiated technological solutions such as the AnnA platform that allows you to create chatbots for different purposes.
-
-I currently accepted the challenge and joined the Havan Labs team as a developer to help them with the challenges ahead.
-
-Thanks!
-
-Conctact : murillo.petry@gmail.com
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukasc&show_icons=true&theme=dark&locale=en" alt="mukasc" /></p>
